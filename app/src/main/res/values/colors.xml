@@ -5,8 +5,8 @@
     <color name="white">#FFFFFFFF</color>
 
     // App Colors
-    <color name="primary">#a4a3c2</color>
-    <color name="primaryDark">#6f7ea5</color>
+    <color name="primary">#313749</color>
+    <color name="primaryDark">#282035</color>
     <color name="secondary">#e8b04f</color>
     <color name="accent">#FFFFFFFF</color>
     <color name="gold">#ffe78f</color>
