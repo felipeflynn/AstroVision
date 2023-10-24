@@ -44,3 +44,15 @@ AstroVision is a horoscope application that provides accurate predictions and in
 ## Screenshots
 
 _Insert screenshots here._
+
+## Next Steps
+
+My immediate focus in the development of AstroVision is to further enhance the user interface (UI) to provide an even more engaging and enjoyable experience for our users. The following are some key areas I am working on:
+
+- **User Experience Enhancement**: I will continue refining the user interface to make navigation more intuitive and interactions smoother.
+
+- **Responsive Design**: I strive to make AstroVision accessible on a variety of devices, from mobile phones to tablets, ensuring the app adapts optimally to different screen sizes.
+
+- **New Visual Features**: I am exploring the incorporation of appealing visual elements, such as graphics and animations, to enrich the user experience.
+
+- **Performance Optimization**: I will work on optimizing the app's performance to ensure that AstroVision runs smoothly and is responsive in all situations.
